@@ -13,7 +13,7 @@ Ele lê uma tabela de vendas e apresenta gráficos e métricas para facilitar a 
 - VsCode
 - Python
 - Pandas
-- Openpxl
+- Openpyxl
 - Streamlit
 
 ## 🚀 Como rodar
