@@ -9,8 +9,12 @@ Ele lê uma tabela de vendas e apresenta gráficos e métricas para facilitar a 
 - Interface interativa
 
 ## 🛠 Tecnologias usadas
+- Windows
+- VsCode
 - Python
-- (adicione bibliotecas: ex. pandas, matplotlib, streamlit)
+- Pandas
+- Openpxl
+- Streamlit
 
 ## 🚀 Como rodar
 1. Clone o repositório  
