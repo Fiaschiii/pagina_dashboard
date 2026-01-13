@@ -17,3 +17,6 @@ Como rodar:
 2. Ative o ambiente virtual  
 3. Instale dependências (pandas, openpyxl e streamlit)
 4. Execute `streamlit run main.py` no terminal
+
+
+Curtiu? Entre em contato comigo pelo meu site: https://miguelfiaschi.netlify.app/
